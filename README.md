@@ -6,7 +6,6 @@
 <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-It-Works.png" width="60" />
 <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-Memorizing.png" width="60" />
 <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-Resting.png" width="60" />
-<img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-Vibing.png" width="60" />
 <img src="https://raw.githubusercontent.com/PamodaW/Cool-Dev-Assets-By-Pamo/main/Assets/images/Pamo%20Pack/Pamo-Coding.png" width="60" />
 ## 🎞️ Pamo Stickers GIF
 
